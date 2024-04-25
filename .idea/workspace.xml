@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0da96cd1-ba93-4865-a2cd-a616647a51f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prak1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak10.1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak10.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak10.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak13.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak13.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak13.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak8.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak8.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak8.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak9.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak9.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak9.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prak9.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak10.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak11.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak11.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak11.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak11.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak12.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak12.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak12.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak12.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak12.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak13.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak14.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak14.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak14.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak14.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak15.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak15.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak15.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak15.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak15.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak16.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak16.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak16.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak16.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak17.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak18.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak18.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak18.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak18.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak18.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak19.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak19.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak19.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak20.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak20.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak3.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prak5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/risunok1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/risunok2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/risunok3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/risunok4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/risunok5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/risunok6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorted_list_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_less_than_K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad5.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fJVthhZhNmGkqJQUTn7P7XiNY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Prak10.1.1.executor": "Run",
+    "Python.Prak10.2.executor": "Run",
+    "Python.Prak10.3.executor": "Run",
+    "Python.Prak13.2.executor": "Run",
+    "Python.Prak13.4.executor": "Run",
+    "Python.Prak4.1.executor": "Run",
+    "Python.Prak5.1.executor": "Run",
+    "Python.Prak6.1.executor": "Run",
+    "Python.Prak6.2.executor": "Run",
+    "Python.Prak6.3.executor": "Run",
+    "Python.Prak6.4.executor": "Run",
+    "Python.Prak7.1.executor": "Run",
+    "Python.Prak8.1.executor": "Run",
+    "Python.Prak8.2.executor": "Run",
+    "Python.Prak8.3.executor": "Run",
+    "Python.Prak8.4.executor": "Run",
+    "Python.Prak9.1.executor": "Run",
+    "Python.Prak9.2.executor": "Run",
+    "Python.Prak9.3.executor": "Run",
+    "Python.Prak9.4.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.prak10.4.executor": "Run",
+    "Python.prak11.4.executor": "Run",
+    "Python.prak11.5.executor": "Run",
+    "Python.prak11.6.executor": "Run",
+    "Python.prak12.1.executor": "Run",
+    "Python.prak12.2.executor": "Run",
+    "Python.prak12.3.executor": "Run",
+    "Python.prak12.4.executor": "Run",
+    "Python.prak13.1.executor": "Run",
+    "Python.prak14.1.executor": "Run",
+    "Python.prak14.3.executor": "Run",
+    "Python.prak14.4.executor": "Run",
+    "Python.prak15.1.executor": "Run",
+    "Python.prak15.2.executor": "Run",
+    "Python.prak15.3.executor": "Run",
+    "Python.prak15.4.executor": "Run",
+    "Python.prak15.5.executor": "Run",
+    "Python.prak16.1.executor": "Run",
+    "Python.prak16.2.executor": "Run",
+    "Python.prak16.3.executor": "Run",
+    "Python.prak16.4.executor": "Run",
+    "Python.prak17.1.executor": "Run",
+    "Python.prak17.2.executor": "Run",
+    "Python.prak17.3.executor": "Run",
+    "Python.prak17.4.executor": "Run",
+    "Python.prak18.1.executor": "Run",
+    "Python.prak18.2.executor": "Run",
+    "Python.prak18.3.executor": "Run",
+    "Python.prak18.4.executor": "Run",
+    "Python.prak19.1.executor": "Run",
+    "Python.prak19.2.executor": "Run",
+    "Python.prak19.3.executor": "Run",
+    "Python.prak2.2.executor": "Run",
+    "Python.prak2.executor": "Run",
+    "Python.prak20.1.executor": "Run",
+    "Python.prak20.2.executor": "Run",
+    "Python.prak3.2.executor": "Run",
+    "Python.prak3.executor": "Run",
+    "Python.prak5.2.executor": "Run",
+    "Python.prak5.3.executor": "Run",
+    "Python.prak5.4.executor": "Run",
+    "Python.zad2.executor": "Run",
+    "Python.zad3.3.executor": "Run",
+    "Python.zad3.executor": "Run",
+    "Python.zad4.executor": "Run",
+    "Python.zad5.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Egor/Desktop/prak1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Egor\Desktop\prak1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="prak1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da96cd1-ba93-4865-a2cd-a616647a51f6" name="Changes" comment="" />
+      <created>1713519384095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713519384095</updated>
+      <workItem from="1714043470657" duration="426000" />
+      <workItem from="1714044011272" duration="192000" />
+      <workItem from="1714044992678" duration="6439000" />
+      <workItem from="1714069011744" duration="5205000" />
+      <workItem from="1714084466484" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/prak1$prak5_4.coverage" NAME="prak5.4 Coverage Results" MODIFIED="1714046147181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak11_5.coverage" NAME="prak11.5 Coverage Results" MODIFIED="1714046639746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak19_3.coverage" NAME="prak19.3 Coverage Results" MODIFIED="1714071369926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak12_3.coverage" NAME="prak12.3 Coverage Results" MODIFIED="1714047500936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1714071561398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/prak1$prak13_1.coverage" NAME="prak13.1 Coverage Results" MODIFIED="1714047978847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak20_1.coverage" NAME="prak20.1 Coverage Results" MODIFIED="1714072917352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak17_1.coverage" NAME="prak17.1 Coverage Results" MODIFIED="1714069253686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$Prak9_3.coverage" NAME="Prak9.3 Coverage Results" MODIFIED="1714046276001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak10_4.coverage" NAME="prak10.4 Coverage Results" MODIFIED="1714046422914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak15_2.coverage" NAME="prak15.2 Coverage Results" MODIFIED="1714050656011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$Prak13_2.coverage" NAME="Prak13.2 Coverage Results" MODIFIED="1714048482082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak14_4.coverage" NAME="prak14.4 Coverage Results" MODIFIED="1714050112797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak16_4.coverage" NAME="prak16.4 Coverage Results" MODIFIED="1714051463684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak17_2.coverage" NAME="prak17.2 Coverage Results" MODIFIED="1714069344071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak5_2.coverage" NAME="prak5.2 Coverage Results" MODIFIED="1714046086376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak16_1.coverage" NAME="prak16.1 Coverage Results" MODIFIED="1714051296352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak15_3.coverage" NAME="prak15.3 Coverage Results" MODIFIED="1714050791764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak15_5.coverage" NAME="prak15.5 Coverage Results" MODIFIED="1714051063792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak16_3.coverage" NAME="prak16.3 Coverage Results" MODIFIED="1714051405765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak18_2.coverage" NAME="prak18.2 Coverage Results" MODIFIED="1714069987336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak17_4.coverage" NAME="prak17.4 Coverage Results" MODIFIED="1714069546720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak20_2.coverage" NAME="prak20.2 Coverage Results" MODIFIED="1714073765932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$Prak13_4.coverage" NAME="Prak13.4 Coverage Results" MODIFIED="1714048790142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak15_1.coverage" NAME="prak15.1 Coverage Results" MODIFIED="1714050580593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak14_3.coverage" NAME="prak14.3 Coverage Results" MODIFIED="1714049944412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak17_3.coverage" NAME="prak17.3 Coverage Results" MODIFIED="1714069429076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak18_1.coverage" NAME="prak18.1 Coverage Results" MODIFIED="1714069876578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak12_4.coverage" NAME="prak12.4 Coverage Results" MODIFIED="1714047625125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak18_4.coverage" NAME="prak18.4 Coverage Results" MODIFIED="1714070242593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak5_3.coverage" NAME="prak5.3 Coverage Results" MODIFIED="1714046104247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak12_1.coverage" NAME="prak12.1 Coverage Results" MODIFIED="1714047182514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak11_6.coverage" NAME="prak11.6 Coverage Results" MODIFIED="1714046972985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$zad4.coverage" NAME="zad4 Coverage Results" MODIFIED="1714045788131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak19_2.coverage" NAME="prak19.2 Coverage Results" MODIFIED="1714071269889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak14_1.coverage" NAME="prak14.1 Coverage Results" MODIFIED="1714049605853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak19_1.coverage" NAME="prak19.1 Coverage Results" MODIFIED="1714071130297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak18_3.coverage" NAME="prak18.3 Coverage Results" MODIFIED="1714070097320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak11_4.coverage" NAME="prak11.4 Coverage Results" MODIFIED="1714046570442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak12_2.coverage" NAME="prak12.2 Coverage Results" MODIFIED="1714047509727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak15_4.coverage" NAME="prak15.4 Coverage Results" MODIFIED="1714050863946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$prak16_2.coverage" NAME="prak16.2 Coverage Results" MODIFIED="1714051356308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prak1$main.coverage" NAME="main Coverage Results" MODIFIED="1714069249372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
